@@ -2,15 +2,10 @@
   "name": "@bonton/headlesshooks",
   "private": true,
   "version": "1.0.0",
-  "description": "A collection of lightweight hooks",
-  "author": "Bonton",
-  "keywords": [
-    "react",
-    "hooks"
-  ],
   "main": "./src/lib/index.ts",
   "scripts": {
     "dev": "vite",
+    "docs": "cd docs && yarn start",
     "build": "tsc && vite build"
   },
   "peerDependencies": {
