@@ -11,8 +11,7 @@
   "main": "./src/lib/index.ts",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "build": "tsc && vite build"
   },
   "peerDependencies": {
     "react": "^18.2.0",
