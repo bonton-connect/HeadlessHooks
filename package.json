@@ -2,6 +2,9 @@
   "name": "@bonton/headlesshooks",
   "private": true,
   "version": "1.0.0",
+  "workspaces": [
+    "docs"
+  ],
   "main": "./src/lib/index.ts",
   "scripts": {
     "dev": "vite",
