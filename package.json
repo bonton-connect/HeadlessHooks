@@ -1,5 +1,5 @@
 {
-  "name": "@bonton/headlesshooks",
+  "name": "@bonton-connect/headlesshooks",
   "private": true,
   "version": "1.0.0",
   "workspaces": [
